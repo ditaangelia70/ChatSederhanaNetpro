@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="26.2.4">
+  <diagram name="Page-1" id="Z9ELhfUuoWcJ7zaaVgy2">
+    <mxGraphModel dx="948" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Go0SnfcUMw44prFrybwP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Go0SnfcUMw44prFrybwP-1" target="Go0SnfcUMw44prFrybwP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-1" value="Topik" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="30" width="246" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-3" value="Rancang bangun aplikasi&amp;nbsp;&lt;div&gt;pengadaan jabatan fungsional&amp;nbsp;&lt;/div&gt;&lt;div&gt;dengan pendekatan &lt;i&gt;Design Thinking&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;dan evaluasi Jacob Nielsen&amp;nbsp;&lt;/div&gt;&lt;div&gt;(studi kasus:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Universitas Katolik Darma Cendika)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-1">
+          <mxGeometry x="13" y="27" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Go0SnfcUMw44prFrybwP-5" target="Go0SnfcUMw44prFrybwP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-5" value="Masalah" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="190" width="326" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-6" value="&lt;ul&gt;&lt;li&gt;Proses pengajuan DUPAK masih dilakukan secara manual melalui Google Drive, yang menyebabkan kesalahan input, keterlambatan validasi, dan kesulitan monitoring.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-5">
+          <mxGeometry y="30" width="326" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-7" value="&lt;ul&gt;&lt;li&gt;Perhitungan angka kredit dilakukan secara manual oleh admin, meningkatkan potensi human error.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-5">
+          <mxGeometry y="110" width="326" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Go0SnfcUMw44prFrybwP-9" target="Go0SnfcUMw44prFrybwP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-9" value="Tujuan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="400" width="326" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-10" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;Mengembangkan sistem berbasis Laravel untuk mempermudah pengajuan DUPAK, perhitungan angka kredit otomatis, dan monitoring data yang lebih terstruktur.&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-9">
+          <mxGeometry y="30" width="326" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Go0SnfcUMw44prFrybwP-12" target="Go0SnfcUMw44prFrybwP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-12" value="Metode" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="560" width="326" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-13" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;strong data-end=&quot;1127&quot; data-start=&quot;1097&quot;&gt;Pendekatan Design Thinking&lt;/strong&gt;&amp;nbsp;untuk memahami kebutuhan pengguna dan merancang sistem yang sesuai.&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-12">
+          <mxGeometry y="30" width="326" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-14" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;strong data-end=&quot;1239&quot; data-start=&quot;1203&quot;&gt;Evaluasi Heuristik Jacob Nielsen&lt;/strong&gt;&amp;nbsp;untuk menilai usability sistem.&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-12">
+          <mxGeometry y="90" width="326" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-15" value="Kontribusi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="385" width="326" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-16" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;strong data-end=&quot;873&quot; data-start=&quot;861&quot;&gt;Akademik&lt;/strong&gt;: Menambah referensi penelitian dalam digitalisasi sistem administrasi akademik menggunakan Laravel.&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-15">
+          <mxGeometry y="30" width="326" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-17" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;strong data-end=&quot;992&quot; data-start=&quot;981&quot;&gt;Praktis&lt;/strong&gt;: Meningkatkan efisiensi dan transparansi dalam proses pengajuan DUPAK di UKDC.&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Go0SnfcUMw44prFrybwP-15">
+          <mxGeometry y="90" width="326" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-20" value="Tools" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="740" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-21" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Figma (Desain UI&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Laravel&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Bootstrap&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Go0SnfcUMw44prFrybwP-20">
+          <mxGeometry x="20" y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Go0SnfcUMw44prFrybwP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Go0SnfcUMw44prFrybwP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="659" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="659" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
